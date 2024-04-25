@@ -1,0 +1,12 @@
+C:\Users\Bunna\source\repos\QuizzzGame\bin\Debug\QuizzzGame.exe.config
+C:\Users\Bunna\source\repos\QuizzzGame\bin\Debug\QuizzzGame.exe
+C:\Users\Bunna\source\repos\QuizzzGame\bin\Debug\QuizzzGame.pdb
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.csprojAssemblyReference.cache
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.Form1.resources
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.Form2.resources
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.Form3.resources
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.Form4.resources
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.Properties.Resources.resources
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.csproj.GenerateResource.cache
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.exe
+C:\Users\Bunna\source\repos\QuizzzGame\obj\Debug\QuizzzGame.pdb
